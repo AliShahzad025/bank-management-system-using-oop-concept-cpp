@@ -1,0 +1,26 @@
+John Doe,,20000,deposit
+John Doe,,20000,deposit
+John Doe,,20000,deposit
+John Doe,20000,deposit
+John Doe,21000,deposit
+John Doe,23000,deposit
+John Doe,40000,Transfer
+John Doe,500,Transfer
+Acme Corp,3220,Transfer
+ali,2333333,deposit
+ali,40000,deposit
+AJohn Doe,523,deposit
+AJohn Doe,23,Withdraw
+aa,23,deposit
+aa,20,Withdraw
+ali,10012,deposit
+ahmedsoftware ,12,deposit
+ali,10014,deposit
+zohaib ,12,Withdraw
+ali,22222,deposit
+ali,12,Transfer
+ali,50,Transfer
+ali,50,Transfer
+Ali,10250,deposit
+Hamza ,22610,deposit
+System,20250,deposit

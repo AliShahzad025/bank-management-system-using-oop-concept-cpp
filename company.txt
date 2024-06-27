@@ -1,0 +1,5 @@
+System,buiseness,1111,20250
+Qarshi ,Gold , 1111 , 0
+sufi ,Business , 1111 , 0
+Devsinc,bronze,1111,0
+sss ,Business , 1111 , 0
